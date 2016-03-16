@@ -1,0 +1,1976 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg baseProfile="tiny" height="3700mm" version="1.2" viewBox="0 0 440 3700" width="440mm"
+     xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs/>
+    <g transform="translate(0,0)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            delta.ERROR
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,25)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            delta.state
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,50)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            global.Actuator_AnalogCranePressure
+        </text>
+        <path d="M120 10  V10 H135 V10 H150 V10 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,75)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            global.Actuator_CraneLower
+        </text>
+        <path d="M120 10  V10 H135 V10 H150 V10 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,100)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            global.Actuator_CraneTurnClockwise
+        </text>
+        <path d="M120 10  V10 H135 V10 H150 V10 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,125)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            global.Actuator_CraneTurnCounterclockwise
+        </text>
+        <path d="M120 10  V10 H135 V10 H150 V10 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,150)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            global.Actuator_MagazinGreenLamp
+        </text>
+        <path d="M120 10  V10 H135 V10 H150 V10 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,175)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            global.Actuator_MagazinSlider
+        </text>
+        <path d="M120 10  V10 H135 V10 H150 V10 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,200)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            global.Actuator_MagazinVacuumOff
+        </text>
+        <path d="M120 10  V10 H135 V10 H150 V10 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,225)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            global.Actuator_MagazinVacuumOn
+        </text>
+        <path d="M120 10  V10 H135 V10 H150 V10 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,250)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            global.Actuator_StampGreenLamp
+        </text>
+        <path d="M120 10  V10 H135 V10 H150 V10 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,275)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            global.Actuator_StampPusher
+        </text>
+        <path d="M120 10  V10 H135 V10 H150 V10 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,300)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            global.Actuator_StampSliderMovedIn
+        </text>
+        <path d="M120 10  V10 H135 V10 H150 V10 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,325)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            global.Actuator_StampSliderMovedOut
+        </text>
+        <path d="M120 10  V10 H135 V10 H150 V10 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,350)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            global.Actuator_StampWhiteLamp
+        </text>
+        <path d="M120 10  V10 H135 V10 H150 V10 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,375)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            global.EQUIV
+        </text>
+        <path d="M120 10  V10 H135 V10 H150 V10 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,400)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            global.EndTrigger
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,425)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            global.StartTrigger
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,450)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            global.premiseD
+        </text>
+        <path d="M120 10  V10 H135 V10 H150 V10 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,475)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            global.premiseR
+        </text>
+        <path d="M120 10  V10 H135 V10 H150 V10 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,500)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            global.rmode
+        </text>
+        <path d="M120 10  V10 H135 V10 H150 V10 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,525)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="445" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="445" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="445" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            input.Sensor_CraneDown
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V10 H165 V10 H180 V10 H195 V10 H210 V18 H225 V10 H240 V18 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V18 H375 V18 H390 V18 H405 V10 H420 V10 H435 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,550)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="445" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="445" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="445" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            input.Sensor_CraneOnConveyor
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V10 H360 V10 H375 V18 H390 V18 H405 V18 H420 V18 H435 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,575)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="445" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="445" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="445" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            input.Sensor_CraneOnMagazin
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V10 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,600)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="445" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="445" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="445" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            input.Sensor_CranePositionStamp
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,625)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="445" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="445" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="445" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            input.Sensor_CraneSucked
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V10 H180 V10 H195 V10 H210 V18 H225 V10 H240 V18 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,650)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="445" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="445" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="445" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            input.Sensor_CraneUp
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V10 H225 V10 H240 V18 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V18 H390 V10 H405 V10 H420 V18 H435 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,675)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="445" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="445" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="445" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            input.Sensor_MagazinCapacitiveSensor
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,700)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="445" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="445" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="445" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            input.Sensor_MagazinEmergencyStop
+        </text>
+        <path d="M120 10  V10 H135 V10 H150 V10 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,725)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="445" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="445" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="445" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            input.Sensor_SliderMovedOut
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V10 H375 V18 H390 V18 H405 V18 H420 V18 H435 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,750)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="445" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="445" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="445" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            input.Sensor_SliderNotMovedOut
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,775)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="445" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="445" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="445" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            input.Sensor_StampEmergencyStop
+        </text>
+        <path d="M120 10  V10 H135 V10 H150 V10 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,800)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="445" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="445" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="445" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            input.Sensor_StampLowered
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V10 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V10 H315 V10 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,825)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="445" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="445" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="445" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            input.Sensor_StampSliderFilled
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V10 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V10 H360 V18 H375 V10 H390 V18 H405 V18 H420 V18 H435 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,850)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="445" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="445" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="445" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            input.Sensor_StampSliderSensorMovedIn
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V10 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V10 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,875)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="445" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="445" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="445" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            input.Sensor_StampSliderSensorMovedOut
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V10 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,900)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="445" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="445" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="445" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            input.Sensor_StampStartButton
+        </text>
+        <path d="M120 10  V10 H135 V10 H150 V18 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V18 H390 V18 H405 V10 H420 V18 H435 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,925)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="445" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="445" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="445" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            input.Sensor_StampUp
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V10 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V10 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,950)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="445" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="445" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="445" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            input.Sensor_StartButtonMagazin
+        </text>
+        <path d="M120 18  V18 H135 V10 H150 V18 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V18 H420 V10 H435 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,975)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="445" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="445" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="445" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            input.Sensor_WorkpieceReady
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V10 H390 V10 H405 V18 H420 V10 H435 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1000)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Actuator_AnalogCranePressure
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1025)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Actuator_CraneLower
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V10 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1050)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Actuator_CraneTurnClockwise
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1075)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Actuator_CraneTurnCounterclockwise
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1100)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Actuator_MagazinGreenLamp
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1125)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Actuator_MagazinSlider
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V10 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1150)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Actuator_MagazinVacuumOff
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1175)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Actuator_MagazinVacuumOn
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1200)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Actuator_StampGreenLamp
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1225)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Actuator_StampPusher
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V10 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V10 H345 V10 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1250)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Actuator_StampSliderMovedIn
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V10 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V10 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1275)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Actuator_StampSliderMovedOut
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V18 H330 V18 H345 V18 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1300)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Actuator_StampWhiteLamp
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1325)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Crane$CraneLower
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V10 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1350)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Crane$CraneTurnClockwise
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1375)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Crane$CraneTurnCounterclockwise
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1400)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Crane$Duration1
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1425)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Crane$MagazinVacuumOff
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V10 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1450)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Crane$MagazinVacuumOn
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1475)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Crane$StartCommandCrane
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1500)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Crane$StartVar
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1525)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Crane$TimeDelay_Timer$ET
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1550)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Crane$TimeDelay_Timer$IN
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1575)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Crane$TimeDelay_Timer$PT
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1600)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Crane$TimeDelay_Timer$Q
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1625)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Crane$TimeDelay_Timer_Duration
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1650)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Crane$TimeDelay_Timer_interconnect
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1675)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Crane$Timer1$ET
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1700)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Crane$Timer1$IN
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1725)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Crane$Timer1$PT
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1750)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Crane$Timer1$Q
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1775)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Crane$_state
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1800)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Crane$interconnect
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1825)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Crane$interconnectCraneStartCommand
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V10 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1850)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Mag$MagazinGreenLamp
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1875)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Mag$MagazinSlider
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V10 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1900)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Mag$StartCommandMagazin
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1925)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Mag$StartVar
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1950)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Mag$_state
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,1975)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Mag$interconnectMagazinStartCommand
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V10 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2000)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Stamp$StampGreenLamp
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2025)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Stamp$StampPusher
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V10 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V10 H330 V10 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2050)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Stamp$StampSliderMovedIn
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V10 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V10 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2075)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Stamp$StampSliderMovedOut
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V18 H315 V18 H330 V18 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2100)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Stamp$StampWhiteLamp
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2125)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Stamp$StartCommandStamp
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2150)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Stamp$StartVar
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2175)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Stamp$Timer$ET
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2200)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Stamp$Timer$IN
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V10 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2225)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Stamp$Timer$PT
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2250)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Stamp$Timer$Q
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V10 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2275)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Stamp$_state
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2300)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Stamp$interconnect
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V10 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2325)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario3v1.Stamp$interconnectStampStartCommand
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V10 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2350)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Actuator_AnalogCranePressure
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2375)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Actuator_CraneLower
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V10 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2400)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Actuator_CraneTurnClockwise
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2425)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Actuator_CraneTurnCounterclockwise
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2450)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Actuator_MagazinGreenLamp
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2475)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Actuator_MagazinSlider
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V10 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2500)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Actuator_MagazinVacuumOff
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2525)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Actuator_MagazinVacuumOn
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2550)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Actuator_StampGreenLamp
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2575)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Actuator_StampPusher
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V10 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V10 H345 V10 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2600)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Actuator_StampSliderMovedIn
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V10 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V10 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2625)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Actuator_StampSliderMovedOut
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V18 H330 V18 H345 V18 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2650)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Actuator_StampWhiteLamp
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2675)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Crane$CraneLower
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V10 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2700)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Crane$CraneTurnClockwise
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2725)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Crane$CraneTurnCounterclockwise
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2750)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Crane$Duration1
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2775)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Crane$MagazinVacuumOff
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V10 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2800)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Crane$MagazinVacuumOn
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2825)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Crane$StartCommandCrane
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2850)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Crane$StartVar
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2875)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Crane$TimeDelay_Timer$ET
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2900)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Crane$TimeDelay_Timer$IN
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2925)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Crane$TimeDelay_Timer$PT
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2950)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Crane$TimeDelay_Timer$Q
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,2975)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Crane$TimeDelay_Timer_Duration
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3000)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Crane$TimeDelay_Timer_interconnect
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3025)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Crane$Timer1$ET
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3050)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Crane$Timer1$IN
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3075)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Crane$Timer1$PT
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3100)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Crane$Timer1$Q
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3125)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Crane$_state
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3150)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Crane$interconnect
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3175)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Crane$interconnectCraneStartCommand
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V10 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3200)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Mag$MagazinGreenLamp
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3225)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Mag$MagazinSlider
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V10 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3250)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Mag$StartCommandMagazin
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3275)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Mag$StartVar
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3300)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Mag$_state
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3325)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Mag$interconnectMagazinStartCommand
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V10 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3350)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Stamp$StampGreenLamp
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V10 H180 V10 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3375)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Stamp$StampPusher
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V10 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V10 H330 V10 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3400)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Stamp$StampSliderMovedIn
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V10 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V10 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3425)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Stamp$StampSliderMovedOut
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V10 H210 V10 H225 V10 H240 V10 H255 V10 H270 V10 H285 V10 H300 V18 H315 V18 H330 V18 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3450)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Stamp$StampWhiteLamp
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3475)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Stamp$StartCommandStamp
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3500)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Stamp$StartVar
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V10 H255 V10 H270 V10 H285 V10 H300 V10 H315 V10 H330 V10 H345 V10 H360 V10 H375 V10 H390 V10 H405 V10 H420 V10 H435 V10 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3525)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Stamp$Timer$ET
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3550)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Stamp$Timer$IN
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V10 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3575)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Stamp$Timer$PT
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3600)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Stamp$Timer$Q
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V10 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3625)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Stamp$_state
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3650)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Stamp$interconnect
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V18 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V10 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(0,3675)">
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="110" y1="3" y2="23"/>
+        <line stroke="black" stroke-width="0.2mm" x1="110" x2="460" y1="23" y2="23"/>
+        <line stroke="green" stroke-width="0.1mm" x1="108" x2="460" y1="10" y2="10"/>
+        <line stroke="red" stroke-width="0.1mm" x1="108" x2="460" y1="18" y2="18"/>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="10">true</text>
+        <text alignment-baseline="middle" font-size="1mm" x="100" y="18">false</text>
+        <text alignment-baseline="middle" font-family="monospace" font-size="2mm" text-anchor="end" x="90" y="13">
+            scenario5v1.Stamp$interconnectStampStartCommand
+        </text>
+        <path d="M120 18  V18 H135 V18 H150 V10 H165 V18 H180 V18 H195 V18 H210 V18 H225 V18 H240 V18 H255 V18 H270 V18 H285 V18 H300 V18 H315 V18 H330 V18 H345 V18 H360 V18 H375 V18 H390 V18 H405 V18 H420 V18 H435 V18 H450 "
+              fill="none" stroke="black" stroke-opacity="0.6" stroke-width="0.5mm"/>
+    </g>
+    <g transform="translate(120,0)">
+        <line stroke="blue" stroke-dasharray="1,1" stroke-opacity="0.5" stroke-width="0.2mm" x1="0" x2="0" y1="3"
+              y2="3700"/>
+        <line stroke="blue" stroke-dasharray="1,1" stroke-opacity="0.5" stroke-width="0.2mm" x1="15" x2="15" y1="3"
+              y2="3700"/>
+        <line stroke="blue" stroke-dasharray="1,1" stroke-opacity="0.5" stroke-width="0.2mm" x1="30" x2="30" y1="3"
+              y2="3700"/>
+        <line stroke="blue" stroke-dasharray="1,1" stroke-opacity="0.5" stroke-width="0.2mm" x1="45" x2="45" y1="3"
+              y2="3700"/>
+        <line stroke="blue" stroke-dasharray="1,1" stroke-opacity="0.5" stroke-width="0.2mm" x1="60" x2="60" y1="3"
+              y2="3700"/>
+        <line stroke="blue" stroke-dasharray="1,1" stroke-opacity="0.5" stroke-width="0.2mm" x1="75" x2="75" y1="3"
+              y2="3700"/>
+        <line stroke="blue" stroke-dasharray="1,1" stroke-opacity="0.5" stroke-width="0.2mm" x1="90" x2="90" y1="3"
+              y2="3700"/>
+        <line stroke="blue" stroke-dasharray="1,1" stroke-opacity="0.5" stroke-width="0.2mm" x1="105" x2="105" y1="3"
+              y2="3700"/>
+        <line stroke="blue" stroke-dasharray="1,1" stroke-opacity="0.5" stroke-width="0.2mm" x1="120" x2="120" y1="3"
+              y2="3700"/>
+        <line stroke="blue" stroke-dasharray="1,1" stroke-opacity="0.5" stroke-width="0.2mm" x1="135" x2="135" y1="3"
+              y2="3700"/>
+        <line stroke="blue" stroke-dasharray="1,1" stroke-opacity="0.5" stroke-width="0.2mm" x1="150" x2="150" y1="3"
+              y2="3700"/>
+        <line stroke="blue" stroke-dasharray="1,1" stroke-opacity="0.5" stroke-width="0.2mm" x1="165" x2="165" y1="3"
+              y2="3700"/>
+        <line stroke="blue" stroke-dasharray="1,1" stroke-opacity="0.5" stroke-width="0.2mm" x1="180" x2="180" y1="3"
+              y2="3700"/>
+        <line stroke="blue" stroke-dasharray="1,1" stroke-opacity="0.5" stroke-width="0.2mm" x1="195" x2="195" y1="3"
+              y2="3700"/>
+        <line stroke="blue" stroke-dasharray="1,1" stroke-opacity="0.5" stroke-width="0.2mm" x1="210" x2="210" y1="3"
+              y2="3700"/>
+        <line stroke="blue" stroke-dasharray="1,1" stroke-opacity="0.5" stroke-width="0.2mm" x1="225" x2="225" y1="3"
+              y2="3700"/>
+        <line stroke="blue" stroke-dasharray="1,1" stroke-opacity="0.5" stroke-width="0.2mm" x1="240" x2="240" y1="3"
+              y2="3700"/>
+        <line stroke="blue" stroke-dasharray="1,1" stroke-opacity="0.5" stroke-width="0.2mm" x1="255" x2="255" y1="3"
+              y2="3700"/>
+        <line stroke="blue" stroke-dasharray="1,1" stroke-opacity="0.5" stroke-width="0.2mm" x1="270" x2="270" y1="3"
+              y2="3700"/>
+        <line stroke="blue" stroke-dasharray="1,1" stroke-opacity="0.5" stroke-width="0.2mm" x1="285" x2="285" y1="3"
+              y2="3700"/>
+        <line stroke="blue" stroke-dasharray="1,1" stroke-opacity="0.5" stroke-width="0.2mm" x1="300" x2="300" y1="3"
+              y2="3700"/>
+        <line stroke="blue" stroke-dasharray="1,1" stroke-opacity="0.5" stroke-width="0.2mm" x1="315" x2="315" y1="3"
+              y2="3700"/>
+    </g>
+</svg>

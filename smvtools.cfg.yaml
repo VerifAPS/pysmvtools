@@ -1,0 +1,48 @@
+timingdiagram:
+  takt: 
+    stroke: blue
+    stroke-opacity: 0.5
+    stroke-width: 0.2mm
+    stroke-dasharray: 11
+    
+  axes:
+    stroke: black
+    stroke-width: 0.2mm
+    
+  curve:
+    stroke: black
+    stroke-opacity: 0.6
+    stroke-width: 0.5mm
+    fill: none
+
+  varname:
+    font-size: 2mm
+    text-anchor: end
+    alignment-baseline: middle
+    font-family: monospace
+
+  valuename:
+    font-size: 1mm
+    alignment-baseline: middle
+
+
+  top_line:
+    stroke: green
+    stroke-width: 0.1mm
+
+
+  bottom_line:
+    stroke: red
+    stroke-width: 0.1mm
+
+  lengths:
+    FRAME_LENGTH:         15
+    ROW_HEIGHT:           25
+    WIDTH_VARIABLE_NAME: 100
+    WIDTH_VALUE_NAMES:    10
+    BEGIN_MARGIN_FRAME:   10
+    Y_AXE_STARTX:      110
+    Y_AXE_HEIGHT:      20
+    Y_AXE_TOP_MARGIN:   3
+    TOP_VALUE_LINE:    10
+    BOT_VALUE_LINE:    18

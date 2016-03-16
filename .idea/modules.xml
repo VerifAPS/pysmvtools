@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/smvstutseq.iml" filepath="$PROJECT_DIR$/.idea/smvstutseq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../smvtools/.idea/smvtools.iml" filepath="$PROJECT_DIR$/../smvtools/.idea/smvtools.iml" />
     </modules>
   </component>
 </project>
