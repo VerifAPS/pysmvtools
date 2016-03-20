@@ -1,6 +1,7 @@
 import click
 
-from smv.td import TimingDiagram
+from smvtools.invtbl import InvariantTable
+from smvtools.td import TimingDiagram
 import csv
 
 from functools import *
@@ -8,6 +9,11 @@ from jinja2 import Environment
 
 
 def readcsv(fp):
+    """
+
+    :param fp:
+    :return:
+    """
     states = []
     rd = csv.DictReader(fp)  # default: excel
     for row in rd:
@@ -19,6 +25,12 @@ def readcsv(fp):
 @click.argument('csvfile', type=click.File('r'), )
 @click.argument('output', type=str, )
 def drawtd(output, csvfile):
+    """
+
+    :param output:
+    :param csvfile:
+    :return:
+    """
     c = readcsv(csvfile)
     td = TimingDiagram.from_csv(c)
     td.draw(output)
@@ -46,3 +58,18 @@ def ceviz(mod1, mod2, file):
         modules=trace.modules,
         trace=trace,
         length=len(trace.modules['input'])))
+
+
+@click.command()
+@click.argument("input")
+@click.option("create")
+def invtbl2smv(input, create=False):
+    """
+        
+    :param input:
+    :param create:
+    :return:
+    """
+    tbl = InvariantTable.from_csv(input)
+    print(tbl)
+    print(tbl.as_infix())

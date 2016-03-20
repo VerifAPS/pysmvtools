@@ -1,0 +1,6 @@
+Monitored,Value,Operator,A,B,C,D,F
+X,TRUE,only if,T,F,F,T,*
+,,or,T,T,F,T,*
+,,or,T,T,T,T,*
+Y,FALSE,iff,T,*,*,*,*
+Z,TRUE,only if,F,* ,*,*,"[5,6]"
