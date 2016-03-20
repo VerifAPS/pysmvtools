@@ -65,7 +65,7 @@ def ceviz(mod1, mod2, file):
 @click.option("create")
 def invtbl2smv(input, create=False):
     """
-        
+
     :param input:
     :param create:
     :return:
