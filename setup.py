@@ -5,7 +5,7 @@ from setuptools import setup
 setup(
     name='smvtools',
     version='0.2',
-    packages=['smvtools'],
+    packages=['smvtools', 'smvtools.invtbl', 'smvtools.ceviz', 'smvtools.web'],
     url='http://github.com/areku/smvtools',
     include_package_data=True,
     license='gpl-v3',
