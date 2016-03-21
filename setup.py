@@ -11,7 +11,7 @@ setup(
     author='Alexander Weigl',
     author_email='Alexander.Weigl@student.kit.edu',
     description='Visualize the Traces of NuSMV and NuXMV',
-    install_requires=['Jinja2', 'Flask', 'svgwrite', 'click'],
+    install_requires=['Jinja2', 'Flask', 'svgwrite', 'click', 'pyyaml', 'Flask-Bootstrap'],
     classifiers=[
         "Development Status :: 4 - Beta",
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
