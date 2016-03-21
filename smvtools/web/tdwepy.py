@@ -6,7 +6,6 @@ from glob import glob
 from flask import Flask, render_template, request, redirect, url_for, send_from_directory
 from flask_bootstrap import Bootstrap
 
-from smvtools.tdviz.drawtimingdiagram import draw as drawsvg, read as readdata
 
 STORAGE = os.path.dirname(__file__) + "/olddiagrams"
 
@@ -61,8 +60,9 @@ def create_app():
         svgpath = os.path.join(STORAGE, svgfilename)
 
         if True or not os.path.exists(svgpath):
-            data = readdata(path)
-            drawsvg(data, svgpath)
+            #data = readdata(path)
+            #drawsvg(data, svgpath)
+            pass
 
         return render_template("show.tpl", name=name, time=time, content=content, svgfile=svgfilename)
 
@@ -73,4 +73,3 @@ def create_app():
     return app
 
 
-create_app().run(debug=True)

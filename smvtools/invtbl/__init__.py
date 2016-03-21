@@ -1,5 +1,21 @@
+# smvtools -- Tools around NuSMV and NuXMV
+# Copyright (C) 2016 - Alexander Weigl
+#
+# This program is free software; you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program; if not, write to the Free Software Foundation,
+# Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301  USA
+
 import csv
-from collections import namedtuple
 from itertools import starmap
 
 FIELD_MONITORED = 'Monitored'
@@ -111,18 +127,18 @@ def _split_interval(s: str):
 
 def _create_proposition(variable, value):
     """
-    >>> _create_proposition("A", "true")
+    >>> print(_create_proposition("A", "true"))
     A
-    >>> _create_proposition("A", "false")
+    >>> print(_create_proposition("A", "false"))
     (NOT A)
-    >>> _create_proposition("A", "*")
-    None
-    >>> _create_proposition("A", ">2")
-    (> A 2)
-    >>> _create_proposition("A", "<=2")
-    (<= A 2)
-    >>> _create_proposition("A", "[2,6]")
-    (AND (>= A 2) (<= A 6))
+    >>> repr(_create_proposition("A", "*"))
+    'None'
+    >>> print(_create_proposition("A", ">2"))
+    (> A 2.0)
+    >>> print(_create_proposition("A", "<=2"))
+    (<= A 2.0)
+    >>> print(_create_proposition("A", "[2,6]"))
+    (AND (>= A 2.0) (<= A 6.0))
 
     :param variable:
     :param value:
@@ -146,6 +162,11 @@ def _create_proposition(variable, value):
 
 
 def _as_conjunction(map):
+    """
+    >>>
+    :param map:
+    :return:
+    """
     args = filter(lambda x: x is not None,
                   starmap(_create_proposition, map.items()))
     return SExpr('AND', *list(args))
@@ -155,6 +176,9 @@ class SExpr(object):
     def __init__(self, operator, *rest):
         self.operator = operator
         self.args = list(rest)
+
+    def __repr__(self):
+        return "SExpr(%r, *%r)" % (self.operator, self.args)
 
     def __str__(self):
         return "(%s %s)" % (self.operator, ' '.join(map(str, self.args)))
@@ -168,7 +192,35 @@ class SExpr(object):
             return op.join(map(as_infix, self.args))
 
 
+TEMPLATE_CSV="""Monitored,Value,Operator,A,B,C,D,F
+X,TRUE,only if,T,F,F,T,*
+,,or,T,T,F,T,*
+,,or,T,T,T,T,*
+Y,FALSE,iff,T,*,*,*,*
+Z,TRUE,only if,F,* ,*,*,"[5,6]"
+"""
+
 def as_infix(obj):
+    """
+
+    :param obj:
+    :return:
+    """
     if hasattr(obj, "as_infix"):
         return "(%s)" % obj.as_infix()
     return str(obj)
+
+import click
+@click.command()
+@click.argument("input")
+@click.option("--create")
+def invtbl2smv(input, create=False):
+    """
+
+    :param input:
+    :param create:
+    :return:
+    """
+    tbl = InvariantTable.from_csv(input)
+    print(tbl)
+    print(tbl.as_infix())

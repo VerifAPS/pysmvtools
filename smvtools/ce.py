@@ -1,4 +1,4 @@
-# smvtools --
+# smvtools -- Tools around NuSMV and NuXMV
 # Copyright (C) 2016 - Alexander Weigl
 #
 # This program is free software; you can redistribute it and/or modify
@@ -99,30 +99,29 @@ class CounterExample(object):
         return traces
 
     @staticmethod
-    def from_file(filename):
+    def from_file(fp):
         """Read in filename and creates a trace object.
 
-        :param filename: path to nu(x|s)mv output file
-        :type filename: str
+        :param fileobj: path to nu(x|s)mv output file
+        :type file: str
         :return:
         """
         trace = CounterExample()
         reached = False
-        with open(filename) as fp:
-            for line in fp.readlines():
-                if not reached and line.strip() == "Trace Type: Counterexample":
-                    reached = True
-                    continue
-                elif reached:
-                    trace.parse_line(line)
-            return trace
+        for line in fp.readlines():
+            if not reached and line.strip() == "Trace Type: Counterexample":
+                reached = True
+                continue
+            elif reached:
+                trace.parse_line(line)
+        return trace
 
 
 def parse_assign(line: str):
     """Parse an assignment line:
 
     >>> parse_assign("    scenario8.Actuator_MagazinVacuumOn = TRUE")
-    ("scenario8.Actuator_MagazinVacuumOn", "TRUE")
+    ('scenario8.Actuator_MagazinVacuumOn', 'TRUE')
     """
     try:
         a, b = line.split(" = ")
