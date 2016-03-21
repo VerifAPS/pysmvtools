@@ -31,7 +31,6 @@ from itertools import *
 from os import system
 
 
-
 class Scale(object):
     @abc.abstractmethod
     def __call__(self, obj):
@@ -105,7 +104,6 @@ class Curve(object):
 
     def _build_curve(self):
         lengths = self.config['timingdiagram']['lengths']
-
 
         values = [self.scale(s) for s in self.states]
 
@@ -190,8 +188,9 @@ class TimingDiagram(object):
 
 def slice_to_vars(states):
     """
-    >>> True
-    False
+    >>> states = [ {'a': 1, 'b' :2}, {'a': 6, 'b' :5}, {'a': 4, 'b' :3}]
+    >>> sorted(slice_to_vars(states).items())
+    [('a', [1, 6, 4]), ('b', [2, 5, 3])]
 
     :param states:
     :return:

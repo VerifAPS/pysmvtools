@@ -9,4 +9,8 @@ python:
   # command to install dependencies
 install:  "pip install ."
 # command to run tests
-script: nosetests --with-doctest
+script:
+  - nosetests --with-doctest
+  - ceviz --help
+  - tdviz --help
+  - invtbl2smv share/invtbl.csv
