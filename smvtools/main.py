@@ -40,8 +40,8 @@ def readcsv(fp):
 
 @click.command()
 @click.argument('csvfile', type=click.File('r'), )
-@click.argument('output', type=str, )
-def drawtd(output, csvfile):
+@click.option('--output', type=str, )
+def drawtd(csvfile, output = None):
     """
 
     :param output:

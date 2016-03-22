@@ -23,7 +23,7 @@ setup(
         "console_scripts": [
             'ceviz = smvtools.main:ceviz',
             'tdviz = smvtools.main:drawtd',
-            'invtbl2smv = smvtools.main:invtbl2smv'
+            'invtbl2smv = smvtools.invtbl:invtbl2smv'
         ],
     },
 )
